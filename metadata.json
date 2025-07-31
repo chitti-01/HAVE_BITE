@@ -1,0 +1,8 @@
+{
+  "name": "Have Bite - Food Supply Chain",
+  "description": "A modern web application connecting Sharebites (food providers), Replaters (food receivers), and LookLookers (verifiers) to reduce food waste and feed communities. Features AI-powered recipe suggestions from Clove AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
